@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Manzi Seka Prince! 👋
 
-<!--
-**Manzidallas/Manzidallas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a bit about me:
 
-Here are some ideas to get you started:
+- 🚀 **Fullstack Developer** | Python & JavaScript
+- 🛠️ Working on an **eCommerce project** for selling cars.
+- 🌟 Exploring **cybersecurity** and **real-time communication technologies**.
+- 🎶 Passionate about music production (FL Studio 24).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me:
+- [Portfolio Website](#) (Coming Soon)
+- [LinkedIn](#)
+- [Twitter](#)
