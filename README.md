@@ -46,13 +46,13 @@
 
 ## 📫 Connect with Me:
 <div align="left">
-  <a href="https://github.com/ManziPrince" target="_blank">
+  <a href="https://github.com/Manzidallas" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/example/" target="_blank">
+  <a href="https://www.linkedin.com/in/manzi-seka-prince-532ba1290/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:mseka422@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
